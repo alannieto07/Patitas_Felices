@@ -1,0 +1,42 @@
+/*Quicksans :'Quicksand', sans-serif */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+/*PT-sans:  'PT Sans', sans-serif */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&display=swap');
+@font-face {
+    font-family: miFuente;
+    src: url(/font/Luckybones-Bold.ttf);
+} 
+
+/* Declaraciones generales */
+* {
+    box-sizing: border-box; 
+    scroll-behavior: smooth;
+}
+
+/* sección: Sobre nosotros */
+h1{
+    font-family: miFuente;
+    color: #E9B49F;
+}
+h2{
+    font-family: miFuente;
+}
+
+p,h5{
+    font-family: 'Quicksand', sans-serif;
+} 
+
+/* sección: Cards */
+.card{
+    background-color: #FBF2EE ;
+    
+}
+
+#textoCards{ 
+    font-family: 'Quicksand', sans-serif  ;
+
+}   
+
+
+
+
